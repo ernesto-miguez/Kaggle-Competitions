@@ -24,15 +24,15 @@ Este directorio contiene la solución y los experimentos desarrollados para la c
 
 ## 🛠️ Roadmap de Desarrollo
 
-- [x] **Fase 1: Baseline Heurístico**
+- **Fase 1: Baseline Heurístico**
   - Detección de centroides mediante filtrado clásico de Laplaciano de Gaussiana (`scikit-image`).
   - Asignación de aristas temporales por proximidad euclídea (Algoritmo Húngaro).
   - Pipeline de inferencia offline funcional para generar un `submission.csv` válido.
-- [ ] **Fase 2: Módulo de Detección 3D (Deep Learning)**
+- **Fase 2: Módulo de Detección 3D (Deep Learning)**
   - Entrenamiento de una red de segmentación/mapas de calor 3D (3D U-Net / MONAI) para la localización precisa de centroides.
-- [ ] **Fase 3: Módulo de Seguimiento y Afinidad**
+- **Fase 3: Módulo de Seguimiento y Afinidad**
   - Modelos de coincidencia basados en *features* de apariencia, velocidad y dirección celular.
-- [ ] **Fase 4: Optimización Global del Grafo**
+- **Fase 4: Optimización Global del Grafo**
   - Ajuste de linajes y detección de división celular mediante optimización basada en flujos o ILP.
 
 ---
