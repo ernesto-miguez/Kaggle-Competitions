@@ -44,5 +44,4 @@ Biohub - Cell Tracking During Development/
 │
 ├── 📂 notebooks/             # Exploración de datos (EDA), visualización MIP y animaciones GIF
 ├── 📂 src/                   # Módulos de procesamiento .zarr/.geff y algoritmos de tracking
-├── 📂 submissions/           # Historial de archivos de entrega generados
 └── 📄 README.md              # Documentación del proyecto
