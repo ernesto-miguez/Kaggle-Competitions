@@ -17,5 +17,4 @@ Kaggle-Competitions/
 │   ├── 📂 submissions/           # Historial de entregas (.csv)
 │   └── 📄 README.md              # Descripción específica de la competición y enfoque usado
 │
-├── 📄 .gitignore
 └── 📄 README.md                  # Visión general del portafolio
