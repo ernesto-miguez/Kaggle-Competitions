@@ -151,12 +151,12 @@ El resultado puso de manifiesto que la calidad de la representación de los dato
 ## 📂 Estructura del Proyecto
 
 ```text
-MALLORN-Astronomical-Classification/
+MALLORN Astronomical Classification Challenge/
 │
-├── notebooks/
-├── src/
-├── outputs/
-├── README.md
+├── 📂 notebooks/             # Exploración de datos (EDA), visualización MIP y animaciones GIF
+├── 📂 src/                   # Módulos de procesamiento, feature extraction...
+├── 📂 submissions/           # Ficheros subidos a la competición
+└── 📄 README.md              # Documentación del proyecto
 ```
 
 ---
