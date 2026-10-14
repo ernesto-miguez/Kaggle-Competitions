@@ -58,15 +58,15 @@ Estos experimentos permiten comparar distintas formas de representar la informac
 
 La competición utiliza el **Mean Absolute Error (MAE)** para evaluar las predicciones sobre un conjunto de test reservado.
 
-\[
+$$
 MAE = \frac{1}{n}\sum_{i=1}^{n}|y_i-\hat{y}_i|
-\]
+$$
 
 Donde:
 
-- \(y_i\) representa el punto de fusión real.
-- \(\hat{y}_i\) representa el punto de fusión predicho.
-- \(n\) es el número de muestras evaluadas.
+- $y_i$ representa el punto de fusión real.
+- $\hat{y}_i$ representa el punto de fusión predicho.
+- $n$ es el número de muestras evaluadas.
 
 El objetivo es minimizar este error, obteniendo predicciones lo más próximas posible a los valores experimentales.
 
