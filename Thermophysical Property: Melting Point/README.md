@@ -111,4 +111,3 @@ Thermophysical Property - Melting Point/
 
 ---
 
-*Proyecto de experimentación en Machine Learning aplicado a la predicción de propiedades fisicoquímicas de compuestos moleculares.*
